@@ -1,0 +1,13 @@
+#test {
+    height: 20px;
+    width: 20px; 
+    background: linear-gradient(to right, red, blue, green);
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.style{
+    display: inline-block;
+    padding: 50px;
+    background: rgb(0, 0, 0);
+}
